@@ -1,0 +1,6 @@
+.admin-root{
+    overflow: hidden;
+}
+.selectedService{
+    color: green;
+}

@@ -1,0 +1,15 @@
+.header-root{
+    position: relative;
+    overflow: hidden;
+    height: 90vh;
+}
+.header-root::before{
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    height: 145%;
+    width: 155%;
+    background: #FBD062;
+    transform: rotate(-5deg);
+}

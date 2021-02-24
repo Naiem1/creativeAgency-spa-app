@@ -1,0 +1,27 @@
+.place-order-root{
+    padding: 50px;
+    overflow: hidden;
+}
+.place-order-root img{
+    height: 40px;
+}
+ul{
+    margin-top: 50px;
+    padding:0;
+}
+ul li{
+    list-style: none;
+    margin-top: 15px;
+}
+.place-order-form{
+    background-color: #F4F7FC;
+}
+.selection{
+    cursor: pointer;
+}
+.selection:hover{
+    color: green;
+}
+.selected{
+    color: green;
+}
